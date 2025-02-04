@@ -10,3 +10,6 @@
 [submodule "8queen"]
 	path = 8queen
 	url = https://github.com/56han/8queen.git
+[submodule "MotionApp"]
+	path = MotionApp
+	url = https://github.com/56han/MotionApp.git
