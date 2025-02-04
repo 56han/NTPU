@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1589174446 source:c:\users\shiuan wan\desktop\2 ppl sevens\cardhw1.cpp
+	"cardHW1.h"
+	<iostream>
+	<iomanip>
+
+1589174446 c:\users\shiuan wan\desktop\2 ppl sevens\cardhw1.h
+	<iostream>
+
+1589359800 source:c:\users\shiuan wan\desktop\2 ppl sevens\cardhw2.cpp
+	"CardHW2.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<string>
+
+1589174446 c:\users\shiuan wan\desktop\2 ppl sevens\cardhw2.h
+	<string>
+	<iomanip>
+
+1589384685 source:c:\users\shiuan wan\desktop\2 ppl sevens\main.cpp
+	"CardHW2.h"
+	"CardHW1.h"
+	"Seven.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<string>
+	<vector>
+
+1589384235 c:\users\shiuan wan\desktop\2 ppl sevens\seven.h
+	<vector>
+
+1589384822 source:c:\users\shiuan wan\desktop\2 ppl sevens\seven.cpp
+	"Seven.h"
+	"cardHW2.h"
+	"cardHW1.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1589174446 source:c:\users\shiuan wan\desktop\2ppl seven\cardhw1.cpp
+	"cardHW1.h"
+	<iostream>
+	<iomanip>
+
+1589174446 c:\users\shiuan wan\desktop\2ppl seven\cardhw1.h
+	<iostream>
+
+1589359800 source:c:\users\shiuan wan\desktop\2ppl seven\cardhw2.cpp
+	"CardHW2.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<string>
+
+1589174446 c:\users\shiuan wan\desktop\2ppl seven\cardhw2.h
+	<string>
+	<iomanip>
+
+1589421299 source:c:\users\shiuan wan\desktop\2ppl seven\main.cpp
+	"CardHW2.h"
+	"CardHW1.h"
+	"Seven.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<string>
+	<vector>
+
+1589448016 c:\users\shiuan wan\desktop\2ppl seven\seven.h
+	<vector>
+
+1589443976 source:c:\users\shiuan wan\desktop\2ppl seven\seven.cpp
+	"Seven.h"
+	"cardHW2.h"
+	"cardHW1.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<vector>
+

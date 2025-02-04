@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionApp</string>
+    <string name="sign">Sign</string>
+    <string name="register">Register</string>
+</resources>

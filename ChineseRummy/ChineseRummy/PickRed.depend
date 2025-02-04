@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1591551899 source:c:\users\shiuan wan\desktop\pickred\hw1.cpp
+	"HW1.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+
+1591551899 c:\users\shiuan wan\desktop\pickred\hw1.h
+	<iostream>
+	<windows.h>
+
+1592965756 source:c:\users\shiuan wan\desktop\pickred\hw2.cpp
+	"HW2.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<string>
+	<windows.h>
+
+1591551899 c:\users\shiuan wan\desktop\pickred\hw2.h
+	<string>
+	<iomanip>
+	<windows.h>
+
+1591551923 source:c:\users\shiuan wan\desktop\pickred\main.cpp
+	<iostream>
+	"HW2.h"
+	"HW1.h"
+	"PickRed.h"
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<string>
+	<vector>
+
+1593031132 c:\users\shiuan wan\desktop\pickred\pickred.h
+	<vector>
+	<fstream>
+
+1593027728 source:c:\users\shiuan wan\desktop\pickred\pickred.cpp
+	"PickRed.h"
+	"HW2.h"
+	"HW1.h"
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<windows.h>
+
